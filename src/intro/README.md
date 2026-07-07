@@ -41,9 +41,6 @@ index: false
 
 该研究已发表于 *International Journal of Surgery*（IF=10.3），并进行了相关学术交流，包括中华医学会临床流行病学和循证医学学术会议壁报交流及 ECR 2026 Abstract。
 
-<PDF url="/assets/pdf/ZiyingYao-.pdf"/>
-
-<PDF url="/assets/pdf/2026_epos_presentation_acceptance.pdf"/>
 
 ### 非功能性胰腺神经内分泌肿瘤研究
 

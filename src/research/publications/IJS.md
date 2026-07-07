@@ -36,5 +36,5 @@ article: true
 ![工作记录](./image-1.png)
 
 **Full Text**
-<PDF url="/assets/pdf/论文全文 (time_to_reclassify）.pdf"/>
+<PDF url="/assets/pdf/time_to_reclassify.pdf"/>
 
