@@ -2,8 +2,7 @@
 title: NF-PNET增强CT指标与转移潜能研究
 icon: vial
 category:
-  - 科研项目
-  - 原创临床研究
+  - 科研成果
 tag:
   - NF-PNET
   - 胰腺神经内分泌肿瘤

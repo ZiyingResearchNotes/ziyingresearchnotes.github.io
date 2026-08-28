@@ -26,6 +26,10 @@ projects:
     desc: 记录临床、科研与学术写作中的具体方法与心得
     link: /notes/
 
+  - name: 临床笔记
+    desc: 病例分析与临床问题整理
+    link: /notes/
+
   - name: 论文与项目
     desc: 已发表、在投及在研工作的整理与展示
     link: /research/

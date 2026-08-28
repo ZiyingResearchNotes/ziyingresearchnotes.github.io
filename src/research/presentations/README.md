@@ -37,6 +37,4 @@ article: false
 **poster接收证明**
 <PDF url="/assets/pdf/2026_confirmation_of_poster_presentation.pdf"/>
 
-## 意向老师整理
-- [Goal Mentor](./goal-mentor/)
-这里整理组会汇报、学术展示与相关材料。
+

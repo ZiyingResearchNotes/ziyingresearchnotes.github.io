@@ -3,8 +3,7 @@ title: Are Compression-Only Strategies Sufficient to Prevent Clinically Relevant
 icon: chart-line
 date: 2026-05-12
 category:
-  - 科研项目
-  - 系统综述与Meta分析
+  - 科研成果
 tag:
   - 远端胰腺切除
   - 胰瘘
