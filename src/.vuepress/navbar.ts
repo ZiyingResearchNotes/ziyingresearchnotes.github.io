@@ -64,6 +64,11 @@ export default navbar([
         icon: "chart-pie",
         link: "figures-data/",
       },
+      {
+       text: "组会",
+        icon: "comments",
+        link: "/research/meetings/",
+},
     ],
   },
   {

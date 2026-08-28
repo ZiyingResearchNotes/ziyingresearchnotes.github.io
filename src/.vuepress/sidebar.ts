@@ -44,6 +44,7 @@ export default sidebar({
         { text: "在投与在研", icon: "hourglass-half", link: "ongoing/" },
         { text: "学术汇报", icon: "person-chalkboard", link: "presentations/" },
         { text: "数据与图表", icon: "chart-pie", link: "figures-data/" },
+       {text: "组会",icon: "comments",link: "/research/meetings/"},
       ],
     },
   ],
